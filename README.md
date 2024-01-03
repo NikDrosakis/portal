@@ -2,8 +2,7 @@
 ### created by NikDrosakis
 ****
 Getting Started with
-> npx-create-react-app****
-
+> npx-create-react-app
 ## Specs
 - photos onclick gallery
 - contact EJMAIL sends to EMAIL (no mail needed)
